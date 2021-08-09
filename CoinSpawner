@@ -36,8 +36,10 @@ game.ReplicatedStorage.Remotes.AskCoin:FireServer(workspace.CoinSpawners["350000
 end)
 
 local args = {
-    [1] = "Infinite money loaded for more information dm Hecker 0307",
+    [1] = "Press F9",
     [2] = "All"
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+warn("dm Hecker#0307 if there are any issues with the script")
