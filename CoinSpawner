@@ -36,7 +36,7 @@ game.ReplicatedStorage.Remotes.AskCoin:FireServer(workspace.CoinSpawners["350000
 end)
 
 local args = {
-    [1] = "Infinite money loaded for more information dm Hecker#0307",
+    [1] = "Infinite money loaded for more information dm Hecker 0307",
     [2] = "All"
 }
 
